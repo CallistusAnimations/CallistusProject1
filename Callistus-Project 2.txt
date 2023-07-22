@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <style>
+    header{
+    background: lightblue;
+    border: solid blue;
+    border-width: 10px 0px 10px 0px;
+    margin: 0 auto;
+    text-align: center;
+          }
+    h1{
+     font-size: 3em;
+      }
+    .circle {
+      height: 250px;
+      width: 250px;
+      background: blue;
+      border-radius: 50%;
+      border: 10px solid white;
+      display: inline-block;
+            }
+    h3 {
+     background-color: #ce54c7;   
+     padding: 15px 15px;
+     font-size: 1.5em;
+     border-left: 10px solid #d6d5cd;
+       }      
+    header,h3 {
+       color: white; 
+       font-family: "Arial Black",Gadget, Sans-serif;       
+              }
+    body {
+      font-family: helvetica, arial,san-serif;
+         }
+    p, ul {
+      list-style: none;
+      padding-left: 50px;
+      font-size: 1.3em;
+          }
+    .emoji {
+       font-size: 8em;
+           }
+  </style>
+ </head>
+<body>
+  <header>
+   <br>
+   <div class="circle">
+     <div class="emoji">
+       &#x1f60E
+     </div>
+   </div>
+    <h1>
+     CALLISTUS MWANZA
+    </h1>
+    <i>
+     Aspiring Front End Web Designer
+    </i>
+    <br><br>
+  
+  </header>
+   <br>
+   <h3>
+    &#9737DETAILS
+   </h3>
+   <p> Date of birth: 27 June,2007 </p>
+   <p> School: Munali Boys Secondary School </p>
+   <p> Grade: 11 </p>
+   <h3>
+    &#9737ABOUT ME
+   </h3>
+   <p>I love web design and learning computer programming languages </p>
+   <p>My dream is to start a web developing office and run and
+       design internationally recognised websites.</p>
+   <h3>
+     &#9998EDUCATION
+   </h3>
+   <P>2009-2013:<br>
+      Jesna 2 primary,Garden. </p>
+   <p>2013-2013:<br>
+      Rephidim Primary School,Lusaka West.</p>
+   <p>2014-2016:<br>
+      Munlo Primary School,Kaunda Square stage two(2).</p>
+   <p>2017-2017:
+      Lubu Road Primary School,Long Acres.</p>
+   <p>2018-2019:<br>
+      Bridland Primary School,Kaunda Square Stage one(1).</p>
+   <p>2020-ongoing:<br>
+      Munali Boys Secondary School,Along Great East Road.</p>
+   <p>Future:2024-2028
+      BSc in computer engineering,University of Zambia            
+   <h3>
+     &#10004EXPERIENCES
+   </h3>
+   <p>I was born in Lusaka,Zambia.</p>
+   <p>I enjoy Computer programming and graphic design.</p>
+   <p>I have a certificate in scratch programming and was second in a school competition.</p>
+   <h3>
+     &#9917SKILLS
+   </h3>
+     <ul>
+       <li>
+         &#9898I am a yellow belt in Karate.
+       </li>
+       <li>   
+         &#9898I am a novice logo designer.
+       </li>  
+       <li>   
+         &#9898I am a semi-pro video editor and vfx editor.
+       </li>     
+       <li>   
+         &#9898I am a semi-pro animator.
+       </li>   
+       <li>   
+         &#9898I have a plethara of knowledge in video production,illustration and animation.
+       </li>         
+     </ul>
+   <h3>
+     &#9993CONTACT
+   </h3>
+   <p>Address: Kaunda Square Stage 1, Lusaka, Zambia | Phone: +260 76 894 4560 | Email: Callistus1914@gmail.com </p>
+   <center>
+   <br>
+    &copy Copyright 2023 Callistus Mwanza Inc.
+   </center>
+</body>
+</html>
