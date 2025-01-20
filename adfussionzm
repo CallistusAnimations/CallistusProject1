@@ -1,8 +1,22 @@
 <!doctype html>
 <html>
+<head>
 <title>
   Adfussion ZM beta-1
 <title/>
+<style>
+   body {
+    background: linear-gradient(110deg, purple 40%, cornflowerblue);
+    color: #fff;
+    text-decoration: none ;
+    font-family: tahoma;
+
+   }
+   .firstblock {
+      background: white;
+   }
+<style\>
+<head\>
 <body>
 <header>
 
